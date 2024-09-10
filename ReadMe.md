@@ -1,4 +1,4 @@
-💫 About Me:
+💫 About Me: <br>
 😁 My name is Muhammad Zikrinayah<br>🖥 I'm Front-End Developer<br>🎂 05 Februari 2007<br>🫱🏻‍🫲🏻 I'm looking for help with<br>📸 I'm also an expert in photography and UI Design
 
 
