@@ -36,7 +36,7 @@
 
 ## Github Statistics 📚
 <p style="display: flex; gap: 10px; justify-content: center; align-items: center; flex-wrap: wrap;">
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Zikri9106&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=7">
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Zikri9106&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=6">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Zikri9106&theme=black-ice&hide_border=true&date_format=M%20j%5B%2C%20Y%5D">
   <img src="https://github-readme-stats.vercel.app/api?username=Zikri9106&show_icons=true&theme=github_dark">
 </p>
