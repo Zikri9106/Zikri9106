@@ -57,11 +57,9 @@
 ---
 
 ### 📊 **GitHub Stats**
-<div align="center">
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Zikri9106&theme=dark&hide_border=true&langs_count=6" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Zikri9106&theme=black-ice&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Zikri9106&show_icons=true&theme=github_dark" />
-</div>
+![Zikri9106's Stats](https://github-readme-stats.vercel.app/api?username=Zikri9106&theme=dark&show_icons=true&hide_border=true&count_private=true)
+![Zikri9106's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Zikri9106&theme=dark&hide_border=true)
+![Zikri9106's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zikri9106&theme=dark&show_icons=true&hide_border=true&layout=compact)
 
 ---
 
