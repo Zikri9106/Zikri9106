@@ -1,9 +1,6 @@
 <h1> Hi there! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 40px> </h1>
-<p align='center'>
-<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=433&height=75&lines=I'm+Muhammad+Zikrinayah;Frontend+Developer;UI+Designer;Mobile+Developer">
-</p>
-	<img src="https://komarev.com/ghpvc/?username=ahmadpiracha&label=Profile%20views&color=0047AB&style=plastic?" alt="7oSkaaa" height=25px, width=160px/> 
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&letterSpacing=1px&duration=1000&pause=1000&color=83D5AC&multiline=true&width=435&height=100&lines=I'm+Muhammad+Zikrinayah;Front-End+Developer;UI+Designer)](https://git.io/typing-svg)
 
 - 🖥 I'm Front-End Developer
   
