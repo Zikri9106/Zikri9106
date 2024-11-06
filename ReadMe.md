@@ -1,6 +1,6 @@
 <h1 align="center">Hi there! 👋 I'm Muhammad Zikrinayah</h1>
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&color=83D5AC&duration=1000&pause=1000&multiline=true&center=true&width=500&height=100&lines=Front-End+Developer;UI+Designer;Photography+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&color=83D5AC&duration=1000&pause=1000&multiline=true&center=true&width=500&height=100&lines=Front-End+Developer;UI+Designer;" alt="Typing SVG" />
 </p>
 
 ---
