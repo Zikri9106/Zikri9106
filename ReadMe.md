@@ -17,10 +17,10 @@
     <img src="https://img.shields.io/badge/z1ykx_-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/muhammad-zikrinayah-746106324" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/Muhammad Zikrinayah-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://open.spotify.com/user/31jr7lejqe4uhxati53uusxhluli" target="_blank">
-    <img src="https://img.shields.io/badge/Spotify-%231DB954.svg?style=for-the-badge&logo=spotify&logoColor=white" />
+    <img src="https://img.shields.io/badge/Nandayoruka-%231DB954.svg?style=for-the-badge&logo=spotify&logoColor=white" />
   </a>
 </p>
 
