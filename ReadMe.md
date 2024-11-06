@@ -5,7 +5,7 @@
 
 ---
 
-### 📸 **About Me**
+### 🧑‍🦱 **About Me**
 - **💻 Front-End Developer**
 - **🎂 Born on 05 February 2007**
 - **👥 Open to Collaborations**
