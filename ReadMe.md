@@ -63,7 +63,6 @@
     <img width=91% src="https://github-readme-streak-stats.herokuapp.com/?user=Zikri9106&theme=radical&hide_border=false">
     <img width=91% src="https://github-readme-stats.vercel.app/api/wakatime?username=Zikri9106&theme=radical&layout=compact">
 </p>
----
 
 ### 🎧 **Now Playing**
 <p align="center">
