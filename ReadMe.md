@@ -57,10 +57,10 @@
 ---
 
 ### 📊 **GitHub Stats**
-![Zikri9106's Stats](https://github-readme-stats.vercel.app/api?username=Zikri9106&theme=dark&show_icons=true&hide_border=true&count_private=true)
-![Zikri9106's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Zikri9106&theme=dark&hide_border=true)
-![Zikri9106's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zikri9106&theme=dark&show_icons=true&hide_border=true&layout=compact)
-
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Zikri9106&count_private=true&show_icons=true&theme=dracula&line_height=30&show=prs_merged,prs_merged_percentage">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zikri9106&count_private=true&hide=cmake,blade&theme=dracula&line_height=5">
+</p>
 ---
 
 ### 🎧 **Now Playing**
