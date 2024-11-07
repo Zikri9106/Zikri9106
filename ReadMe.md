@@ -57,11 +57,11 @@
 ---
 
 ### 📊 **GitHub Stats**
-<p align="start">
-    <img src="https://github-readme-stats.vercel.app/api?username=Zikri9106&count_private=true&show_icons=true&theme=radical&line_height=30&show=prs_merged,prs_merged_percentage&rank_icon=github">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zikri9106&count_private=true&hide=cmake,c&theme=radical&line_height=5&size_weight=1&count_weight=5">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zikri9106&theme=radical&hide_border=false">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Zikri9106&theme=radical&layout=compact">
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Zikri9106&count_private=true&show_icons=true&theme=radical&line_height=25&show=prs_merged,prs_merged_percentage&rank_icon=github">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zikri9106&count_private=true&hide=cmake,c&theme=radical&size_weight=1&count_weight=5&langs_count=4">
+    <img width=76.5% src="https://github-readme-streak-stats.herokuapp.com/?user=Zikri9106&theme=radical&hide_border=false">
+    <img width=76.5% src="https://github-readme-stats.vercel.app/api/wakatime?username=Zikri9106&theme=radical&layout=compact">
 </p>
 ---
 
