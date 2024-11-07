@@ -60,7 +60,7 @@
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=Zikri9106&count_private=true&show_icons=true&theme=dracula&line_height=30&show=prs_merged,prs_merged_percentage">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zikri9106&count_private=true&hide=cmake,blade&theme=dracula&line_height=5">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Zikri9106&count_private=true&hide=cmake,blade&theme=dracula&line_height=5&layout=compact">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Zikri9106&theme=dracula&layout=compact">
 </p>
 ---
 
