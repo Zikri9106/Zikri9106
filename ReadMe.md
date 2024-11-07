@@ -58,10 +58,10 @@
 
 ### 📊 **GitHub Stats**
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Zikri9106&count_private=true&show_icons=true&theme=dark&line_height=25&show=prs_merged,prs_merged_percentage&rank_icon=github">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zikri9106&count_private=true&hide=cmake,c&theme=dark&size_weight=1&count_weight=5&langs_count=4">
-    <img width=91% src="https://streak-stats.demolab.com?user=Zikri9106&theme=dark&border_radius=5&date_format=j%20M%5B%20Y%5D">
-    <img width=91% src="https://github-readme-stats.vercel.app/api/wakatime?username=Zikri9106&theme=dark&layout=compact">
+    <img src="https://github-readme-stats.vercel.app/api?username=Zikri9106&count_private=true&show_icons=true&theme=radical&line_height=25&show=prs_merged,prs_merged_percentage&rank_icon=github">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zikri9106&count_private=true&hide=cmake,c&theme=radical&size_weight=1&count_weight=5&langs_count=4">
+    <img width=91% src="https://streak-stats.demolab.com?user=Zikri9106&theme=radical&border_radius=5&date_format=j%20M%5B%20Y%5D">
+    <img width=91% src="https://github-readme-stats.vercel.app/api/wakatime?username=Zikri9106&theme=radical&layout=compact">
 </p>
 
 ### 🎧 **Now Playing**
