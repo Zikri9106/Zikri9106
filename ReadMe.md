@@ -22,6 +22,9 @@
   <a href="https://open.spotify.com/user/31jr7lejqe4uhxati53uusxhluli">
     <img src="https://img.shields.io/badge/Nandayoruka-%231DB954.svg?style=for-the-badge&logo=spotify&logoColor=white" />
   </a>
+    <a href="https://lightroom.adobe.com/u/muhammazikrina">
+    <img alt="Lightroom" src="https://img.shields.io/badge/Adobe Lightroom-31A8FF?style=for-the-badge&logo=adobe-lightroom&logoColor=white" />
+  </a>
 </p>
 
 ---
