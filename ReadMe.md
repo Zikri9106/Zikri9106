@@ -13,8 +13,8 @@
 
 ### 🔗 **Connect with Me:**
 <p align="start">
-  <a href="https://www.instagram.com/z1ykx_">
-    <img src="https://img.shields.io/badge/z1ykx_-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
+  <a href="https://www.instagram.com/itszykx_">
+    <img src="https://img.shields.io/badge/itszykx_-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/muhammad-zikrinayah-746106324">
     <img src="https://img.shields.io/badge/Muhammad Zikrinayah-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -31,12 +31,6 @@
 
 ### 🛠 **Skills & Tools**
 <p align="start">
-  <a href="https://kotlinlang.org/">
-    <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
-  </a>
-  <a href="https://developer.android.com/jetpack" target="_blank">
-    <img alt="Jetpack Compose" src="https://img.shields.io/badge/Jetpack Compose-4285F4?style=for-the-badge&logo=jetpack-compose&logoColor=white" />
-  </a>
   <a href="https://flutter.dev/">
     <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
   </a>
@@ -48,9 +42,6 @@
   </a>
   <a href="https://lightroom.adobe.com/">
     <img alt="Lightroom" src="https://img.shields.io/badge/Adobe Lightroom-31A8FF?style=for-the-badge&logo=adobe-lightroom&logoColor=white" />
-  </a>
-  <a href="https://developer.android.com/">
-    <img alt="Android Studio" src="https://img.shields.io/badge/Android Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
   </a>
   <a href="https://github.com/">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
